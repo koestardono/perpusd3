@@ -1,0 +1,59 @@
+      
+ 
+    <h3>Data Peminjaman</h3>   
+         
+        <table bordered="1">  
+            <thead bgcolor="green" align="center">
+            <tr>
+                        <th>Kode Peminjaman</th>
+                        <th>Nama Anggota</th>
+                        <th>Judul Buku</th>
+                        <th>Tanggal Pinjam</th>
+						<th>Tanggal Harus Kembali</th>
+                      </tr>
+            </thead>
+            <tbody>
+         
+                    
+        </tbody>
+
+        </div>
+    </div>
+</div>
+                         <tr>
+					    <td>P0007</td>
+						<td>ninanindung</td>
+                        <td>Keesaan</td>
+                        <td>29 Mei 2019</td>
+                        <td>05 Juni 2019</td>
+                      </tr>
+                                            <tr>
+					    <td>P0006</td>
+						<td>Reza</td>
+                        <td>Keesaan</td>
+                        <td>29 Mei 2019</td>
+                        <td>05 Juni 2019</td>
+                      </tr>
+                                            <tr>
+					    <td>P0005</td>
+						<td>Fery Kuy</td>
+                        <td>Ketuhanan Yang Maha Esa</td>
+                        <td>29 Mei 2019</td>
+                        <td>05 Juni 2019</td>
+                      </tr>
+                                            <tr>
+					    <td>P0003</td>
+						<td>Koestar</td>
+                        <td>Keesaan</td>
+                        <td>29 Mei 2019</td>
+                        <td>05 Juni 2019</td>
+                      </tr>
+                                            <tr>
+					    <td>P0002</td>
+						<td>Bimo</td>
+                        <td>Ketuhanan Yang Maha Esa</td>
+                        <td>29 Mei 2019</td>
+                        <td>05 Juni 2019</td>
+                      </tr>
+                                                  
+                        </table>       
